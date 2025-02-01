@@ -1,4 +1,4 @@
-import PenaCalculator from '@/components/PenaCalculator';
+import { PenaCalculator } from "../components/PenaCalculator";
 
 export default function Home() {
   return <PenaCalculator />;
